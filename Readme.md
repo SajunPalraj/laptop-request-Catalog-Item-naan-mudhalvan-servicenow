@@ -1,10 +1,10 @@
-# ServiceNow Laptop Request Catalog (Naan Mudhalvan Project)
+# ServiceNow - Laptop Request Catalog Item (Naan Mudhalvan Project)
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Platform-brightgreen?style=for-the-badge&logo=servicenow)
 
 This project was developed as part of the **Naan Mudhalvan** program, a large-scale upskilling initiative by the Government of Tamil Nadu. This project was completed for the "ServiceNow System Administrator" certification track.
 
-**Project Demo Link:** [**Watch the Video Demo on Google Drive**](https://drive.google.com/file/d/16DtiT50C-msj4VGsBRl_PC0kutw-Gkqt/view?usp=drive_link)
+**Our Project Demo Link:** [**Watch our Video Demo on Google Drive**](https://drive.google.com/file/d/16DtiT50C-msj4VGsBRl_PC0kutw-Gkqt/view?usp=drive_link)
 
 ---
 
