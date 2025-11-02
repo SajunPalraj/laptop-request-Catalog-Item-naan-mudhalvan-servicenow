@@ -38,24 +38,23 @@ This catalog item includes several key features to improve the user experience a
 
 This flowchart outlines the entire development and testing process for the project.
 
-![Project Development Flowchart]([./project-visuals/project-flow-chart.png](https://github.com/SajunPalraj/laptop-request-Catalog-Item-naan-mudhalvan-servicenow/blob/main/Planning%20Phase/project%20flow%20chart.png))
-*(You must upload your flowchart image to a `project-visuals` folder for this to display)*
+![Project Development Flowchart](
+
 
 ### Final Output
 
 This screenshot shows the final "Order Status" page after a user successfully submits a request through the new catalog item.
 
-![Final Project Output]([./project-visuals/output-screenshot.png](https://github.com/SajunPalraj/laptop-request-Catalog-Item-naan-mudhalvan-servicenow/blob/main/service-now.com.png))
-*(You must upload your output screenshot (from Page 8) to a `project-visuals` folder for this to display)*
+![Final Project Output](https://github.com/SajunPalraj/laptop-request-Catalog-Item-naan-mudhalvan-servicenow/blob/main/Output%20Phase/service-now.com.png)
 
 ---
 
 ## 6. Technology Stack
 
-* [cite_start]**Platform:** ServiceNow [cite: 52]
-* [cite_start]**Modules:** Service Catalog, Update Sets [cite: 54, 55]
-* [cite_start]**Components:** Catalog UI Policy, UI Action [cite: 56, 57]
-* [cite_start]**Scripting Language:** JavaScript (for client-side scripts) [cite: 58]
+* **Platform:** ServiceNow 
+* **Modules:** Service Catalog, Update Sets 
+* **Components:** Catalog UI Policy, UI Action 
+* **Scripting Language:** JavaScript (for client-side scripts) 
 
 ---
 
